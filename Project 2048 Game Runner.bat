@@ -1,0 +1,1 @@
+D:\Software\Java\jdk-21\bin\java.exe "-javaagent:D:\Software\JetBrains\IntelliJ IDEA 2023.3.4\lib\idea_rt.jar=9385:D:\Software\JetBrains\IntelliJ IDEA 2023.3.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\project\CS109\CS109FinalProject\project2048demo2\project2048demo2\out\production\project2048demo2 Main
